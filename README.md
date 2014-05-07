@@ -15,7 +15,7 @@ The ability to view the EDF headers allows the users to verify the contents prio
  
 The application supports a limited set of functionality in support of quick review of EDF content. Users can select the EDF file they wish to view. Header and signal header information is also available to the user once the EDF file is loaded in  the interface. The user can select the signal, x-axis scale, lines per page, display gain, and display monitor for  the PowerPoint generated. Users also have the option to customize the PowerPoint file’s title and saved location.
  
-SignalRasterView is a MATALB application created with the MATLAB GUI Development Environment (GUIDE).The most recent version of SignalRaster can be downloaded here. If you are interested in modifying, extending, or referencing previous versions, please access the SignalRasterView development site.
+SignalRasterView is a MATALB application created with the MATLAB GUI Development Environment (GUIDE). The most recent version of SignalRaster can be downloaded here. If you are interested in modifying, extending, or referencing previous versions, please access the SignalRasterView development site.
  
 The most recent version of SignalRasterView can be found here.
  
